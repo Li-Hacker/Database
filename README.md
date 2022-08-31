@@ -1,4 +1,4 @@
-- Hi, I’m @Li-Hacker
+- Hi
 
 
 <!---
